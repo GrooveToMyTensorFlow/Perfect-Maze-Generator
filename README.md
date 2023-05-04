@@ -13,7 +13,7 @@ Class: Maze for managing the maze and related operations
 Two-dimensional char array: M for representing the maze grid
 Integer: size for storing the size of the maze
 
-#Usage
+# Usage
 Compile and run the project
 Follow the prompts to generate and interact with the perfect maze
 
